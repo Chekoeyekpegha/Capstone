@@ -1,2 +1,2 @@
 # Capstone
-project
+please I am very sorry, I am not done yet with my project, infact I have not started, I am getting en error, Is my root directory broken? what other alternatives can i use in downloading the dataset? my kaggle address is correct and this dataset does not have an hyperlink(missing) on kaggle. I know this is not the right place to ask questions but the mentors have not answered me. Over 6 hours of my precious time has gone because of this. Please help me if you can
